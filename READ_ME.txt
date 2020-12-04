@@ -1,5 +1,7 @@
-This is the first version of the task "Employee pair with longest time together in team". 
-This version is without functions and classes. Just a test. Its working.
+I made two versions of the task "Employee pair with longest time together in team":
+- one without functions (python_decision.py)
+- one with functions (python_decision_with_functions.py)
+
 
 Structure of decision:
 1. Making the file readable. Checking if its readable;
